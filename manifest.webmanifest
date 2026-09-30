@@ -1,0 +1,16 @@
+{
+  "name": "Dripwell Bali",
+  "short_name": "Dripwell",
+  "description": "Home doctor & medical service - registration, medical record, invoice, stock and dashboard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef5f4",
+  "theme_color": "#0b7a75",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
